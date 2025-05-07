@@ -8,3 +8,4 @@ preprint available on arxiv. doi: 10.48550/arXiv.2210.10128
 
 The code relies on CasADi (https://web.casadi.org/) which in turn uses Ipopt (https://coin-or.github.io/Ipopt/).
 
+*The code in this repository was developed solely by the first author. The other authors of the associated publication were not involved in its implementation or maintenance and bear no responsibility for its correctness or completeness.*
